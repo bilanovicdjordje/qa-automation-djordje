@@ -1,15 +1,7 @@
 node_modules
+# Ignore Cypress artifacts
 cypress/videos/
 cypress/screenshots/
-.cache/
-CypressCache/
-.env
-.env.*
-.vscode/
-*.log
-.DS_Store
-Thumbs.db
-cypress.env.json
-cypress.config.local.js
-cypress.config.local.ts
-cypress.local.config.*
+cypress/downloads/
+cypress/reports/
+.cypress-cache/
