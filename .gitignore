@@ -1,0 +1,7 @@
+node_modules
+# Ignore Cypress artifacts
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+cypress/reports/
+.cypress-cache/
